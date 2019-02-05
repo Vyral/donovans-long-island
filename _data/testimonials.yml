@@ -1,5 +1,25 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: Karen and her team were extremely knowledgeable about the nuances of the local market and about the advice of what we should and shouldn't do to sell the house, which needed TLC. We took her advice on how to clean up and stage the house, and her pictures of the house made it look warm and inviting.She guided us through the entire process to list the house, negotiate among multiple buyers (nice bidding war) and sell the house, which all went smoothly and successfully. We are extremely happy with all that she did for us.
+    # name:
+    # audio:
+
+  - quote: Karen Donovan is an exceptional real estate agent. She always took the time to answer or research our questions thoroughly. She delivered in every aspect of our home sale experience. She utilizes her time wisely, but was always there for us when necessary. She continues to be successful in a very difficult marketplace. When very few homes were sold in our area, she developed a marketing plan that was very creative. It took more than one year to sell our home, but it was one of the very few that were sold in our price range. We were able to get a very fair price in today's marketplace, which was no small feat! There are bigger real estate agencies, but no agents better than Karen and her team!
+    # name:
+    # audio:
+
+  - quote: Karen Donovan's team is made up of amazing people. She will work with you on your terms. If the seller wants to do renovations, Karen has a list of reputable people with whom she has worked over many years to take care of the work with acceptable prices. She is excellent at explaining, organizing, executing, overseeing, and approving final work that needs to be done. If we had wanted to have someone else clear a house that was willed to us out, she has people who can do that. In other words, you explain your thoughts, needs, plans, goals, preferences, etc. to her team and they will get it done in a time frame that is better than you could have imagined possible! She was such an encouragement to us in so many ways when we were so overwhelmed that it seemed an impossible task. Quite frankly, if Karen Donovan and her team had not come along when they did, we would probably STILL be sitting with the responsibility to wonder how we would proceed.
+    name: Donna Johnson
+    # audio:
+
+  - quote: Initially, it was Karen’s optimism that convinced us to list our home and it was her knowledge and expertise that resulted in its quick and efficient sale. Even though we asked Karen to please accommodate our decision not to have an “Open House” or even put a street “For Sale” sign out front she was still willing to work with us and somehow, even without them ,our house was sold within a week. Maybe it was the excellent photographs of the house and property they took or maybe it was Karen’s extensive real estate contacts and experience that did it - we’ll never know – but we do highly recommend Karen and her agency (Donovan Realty) to all perspective buyers and sellers.
+    name: D. Dikranian
+    # audio:
+
+  - quote: To be honest we were a little wary about using a realtor at first. We spoke to a couple but were not overly impressed. However, once we spoke with Karen Donovan, our opinion changed immediately and we decided to list the house with Donovan Brothers before she even walked out the door. In spite of a tough market, there was a steady stream of potential buyers coming to look at the house, and all things considered it sold relatively quickly and at a good price in today’s market. Karen Donovan and her staff were a pleasure to work with and their experience and advice made a potentially difficult process, full of pitfalls for a novice, very manageable. I would have no reservations in recommending Karen Donovan to anyone selling, or even considering the purchase of, a home.
+    name: Paul Badu
+    # audio:
+
+  - quote: Karen Donovan is an exceptional real estate agent. She always took the time to answer or research our questions thoroughly. She delivered in every aspect of our home sale experience. She utilizes her time wisely, but was always there for us when necessary. She continues to be successful in a very difficult marketplace. When very few homes were sold in our area, she developed a marketing plan that was very creative. It took more than one year to sell our home, but it was one of the very few that were sold in our price range. We were able to get a very fair price in today's marketplace, which was no small feat! There are bigger real estate agencies, but no agents better than Karen and her team!
+    name: The O’Malleys
+    # audio:
