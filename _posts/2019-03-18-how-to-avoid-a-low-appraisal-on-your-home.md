@@ -19,8 +19,6 @@ youtube_code: iG0pHRavT8Y
 
 {% include youtube.html %}
 
-&nbsp;
-
 Whether you’re a buyer, a seller, or an agent, the last thing you want is to receive a low appraisal on a home you recently sold or wanted to buy.
 
 I just had a buyer’s agent tell me that they simply “let the appraiser handle that.” That’s absolutely the wrong thing to do—in fact, **there are three crucial things you must do to avoid a low appraisal in the first place:**
