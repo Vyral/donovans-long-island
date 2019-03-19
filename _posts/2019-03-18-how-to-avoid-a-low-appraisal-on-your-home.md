@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Avoid a Low Appraisal on Your Home
-date: 2019-03-18 16:16:34
+date: 2019-03-18 16:16:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: iG0pHRavT8Y
+youtube_code: eXNPWOraLYs
 ---
 
 {% include youtube.html %}
