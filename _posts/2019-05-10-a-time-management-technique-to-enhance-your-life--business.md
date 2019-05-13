@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Time-Management Technique to Enhance Your Life & Business
-date: 2019-04-29 16:11:02
+date: 2019-05-10 16:11:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: yH12H7WE41w
+youtube_code: yLtZcOCuhxA
 ---
 
 {% include youtube.html %}
