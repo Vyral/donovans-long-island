@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Step-by-Step Guide to Editing a PDF (For Free)
-date: 2019-08-20 18:14:51
+date: 2019-08-20 18:14:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Zo8IAvbTzWs
+youtube_code: rEzGJXBkqcg
 ---
 
 {% include youtube.html %}
