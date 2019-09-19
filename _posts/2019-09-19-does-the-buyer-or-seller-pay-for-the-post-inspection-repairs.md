@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does the Buyer or Seller Pay for the Post-Inspection Repairs?
-date: 2019-09-19 21:51:24
+date: 2019-09-19 21:51:00
 tags:
   - Real Estate
 excerpt: 'After the home inspection, who pays for the repairs? Find out today.'
@@ -32,6 +32,8 @@ Once the inspection report is finalized, negotiations over how to resolve any ne
 In order for both parties to be on the same page, the only items that should be addressed are what I call “habitability issues” (things that materially or structurally affect the habitability of the home) instead of cosmetic issues like chipped paint. The items requested should be discussed between both parties and then be added as an addendum to the original contract.&nbsp;
 
 **There are many ways to approach these negotiations, all of which should involve having the right agent advocating on your behalf.&nbsp;**
+
+[Click here to see home inspection recap photos.&nbsp;](https://vyralmarketing.s3.amazonaws.com/Donovans+&#40;Long+Island&#41;/Email+Assets/Home_Inspection_Recap_Photos.pdf){: target="_blank"}
 
 I want to thank Trudy Urso for sending in our question of the day. As a reward, she’ll receive a $25 Amazon gift card. If you have any real estate questions you’d like me to answer in a future video, don’t hesitate to call, email, or text me. If your question gets chosen, you too will receive an Amazon gift card. I look forward to your questions—we just may have the answers\!
 
