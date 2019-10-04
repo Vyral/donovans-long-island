@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'Monday Morning Wake-Up Call: The 6 Best Doctors'
-date: 2019-10-04 19:26:44
+date: 2019-10-04 07:26:00
 tags:
-  - Monday Morning Wake Up Call
 excerpt: >-
   The key to a happy life lies in following the advice of six great “doctors.”
   Find out what I mean with this short message.
