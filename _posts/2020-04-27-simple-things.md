@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Simple Things
-date: 2020-04-27 15:15:38
+date: 2020-04-27 03:15:00
 tags:
-excerpt:
+excerpt: >-
+  The lesson adults can learn here is that the world is filled with things for
+  our enjoyment.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -25,11 +27,11 @@ Kids can amuse themselves with almost anything. Toddlers can take out all the po
 
 The lesson adults can learn here is that the world is filled with things for our enjoyment. The trick is to open our eyes and look for them. “On the whole…kids are pretty lucky,” writes Michael Burkett, author of&nbsp;*The Dad Zone*. “They can find a penny on the sidewalk and feel rich. They can find a fossil-shaped rock and feel like Indiana Jones. Kids find enjoyment in the simplest of things.” You can too, but you have to look for it.
 
-**Something to Think About**The thing that derails most people is fear. Fear embraces every molecule in your body and prevents you from looking beyond that thing you fear, if you allow it. &nbsp;Fear prevents joy. Only you can allow someone to steal your joy.
+**Something to Think About**<br><br>The thing that derails most people is fear. Fear embraces every molecule in your body and prevents you from looking beyond that thing you fear, if you allow it. &nbsp;Fear prevents joy. Only you can allow someone to steal your joy.
 
-**Weekly Activity**This week look for different ways to entertain yourself and family members. When you create a successful at-home activity, share it with others via your social media platforms.&nbsp; Call five friends/neighbors/coworkers or clients and just ask how they are and if there’s anything you can help them with.
+**Weekly Activity**<br><br>This week look for different ways to entertain yourself and family members. When you create a successful at-home activity, share it with others via your social media platforms.&nbsp; Call five friends/neighbors/coworkers or clients and just ask how they are and if there’s anything you can help them with.
 
-**Words of Wisdom**I don’t think of all the misery, but of the beauty that still remains. - Anne Frank
+**Words of Wisdom**<br><br>I don’t think of all the misery, but of the beauty that still remains. - Anne Frank
 
 Only in the darkness can you see the stars**. -&nbsp;**Martin Luther King Jr.
 
