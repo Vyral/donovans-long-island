@@ -12,14 +12,15 @@ pullquote: >-
   life, get a repair/replacement estimate now.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/3-16-20yt.jpg
 youtube_code: lZessIiw2kU
 ---
 
 {% include youtube.html %}
 
-<center><em>Are you keeping all of the paperwork you’d need for a home sale? Here’s precisely what you need to have on standby.</em></center>
+<center><em>Are you keeping all of the paperwork you&rsquo;d need for a home sale? Here&rsquo;s precisely what you need to have on standby.</em></center>
+
 &nbsp;
 
 What paperwork should you safeguard for future reference and preparation of your home sale?
