@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Good News!
-date:
+date: 2020-05-11 14:47:03
 tags:
 excerpt: >-
   Have you been keeping up with John Krasinski's magical YouTube series he
