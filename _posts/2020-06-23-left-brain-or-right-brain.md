@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Left Brain or Right Brain?
-date: 2020-06-23 19:31:42
+date: 2020-06-23 19:31:00
 tags:
 excerpt:
 enclosure:
@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/mondayy.PNG
 youtube_code:
 ---
 
-Good Morning Colleague,There are two sides of every coin and human nature is no different\! Some people are more logical and some are more emotional. It’s funny how we often end up picking a mate for life who is our opposite, isn’t it? It’s not gender specific. It has more to do with which side of your brain dictates your activities and way of thinking. Nobel prize winner Roger Sperry discovered this in the 1960’s. Are you a left brain or a right brain? If you are a left brain dominant person, you are generally more analytical and orderly than the right brain dominant person. The left-brain person is historically better at things such as reading, writing, and computations. The left brain is logical, linear thinking, and prefers facts.
+There are two sides of every coin and human nature is no different\! Some people are more logical and some are more emotional. It’s funny how we often end up picking a mate for life who is our opposite, isn’t it? It’s not gender specific. It has more to do with which side of your brain dictates your activities and way of thinking. Nobel prize winner Roger Sperry discovered this in the 1960’s. Are you a left brain or a right brain? If you are a left brain dominant person, you are generally more analytical and orderly than the right brain dominant person. The left-brain person is historically better at things such as reading, writing, and computations. The left brain is logical, linear thinking, and prefers facts.
 
 If you are a right brain dominant person, you are more visual and intuitive. You are more creative and have less of an organized way of thinking. You are connected to nonverbal clues, daydreaming, and imagination. Although the two brains function differently, they work together and complement each other. For example, the left brain is credited with language, but the right brain helps you understand context and tone. The left brain handles mathematical equations, but the right brain helps out with comparisons and rough estimates. Whether you’re working out a complicated algebraic equation or painting an abstract work of art, both sides of your brain are actively participating and providing input\!
 
@@ -31,7 +31,7 @@ Now that you understand how you think and process information, this week try to 
 
 **Words of Wisdom**
 
-*When a person has access to both the intuitive, creative and visual right brain, and the analytical, logical, verbal left brain, then the whole brain is working...And this tool is best suited to the reality of what life is, because life is not just logical-it is also emotional. – Stephen Covey*
+*When a person has access to both the intuitive, creative and visual right brain, and the analytical, logical, verbal left brain, then the whole brain is working…And this tool is best suited to the reality of what life is, because life is not just logical-it is also emotional. – Stephen Covey*
 
 *When our goals are clearly defined and intelligently set, you have, in essence, taken a major step toward programming your left brain. That frees your right brain to be its creative best. - Zig Ziglar*
 
