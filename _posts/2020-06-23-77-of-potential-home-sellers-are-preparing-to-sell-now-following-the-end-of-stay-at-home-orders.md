@@ -3,7 +3,7 @@ layout: post
 title: >-
   77% of Potential Home Sellers are Preparing to Sell Now following the end of
   Stay-at-Home orders!
-date: 2020-06-23 19:32:48
+date: 2020-06-23 19:32:00
 tags:
 excerpt:
 enclosure:
@@ -15,13 +15,13 @@ youtube_alternate_image: /uploads/mondayy-1.PNG
 youtube_code:
 ---
 
-Friends and Clients —Did you know that the latest Realtor's Report states that:
+Did you know that the latest Realtor's Report states that:
 
 ***77% of Potential Home Sellers are Preparing to Sell Now following the end of Stay-at-Home orders\!***
 
 Despite the unavoidable fact of the coronavirus pandemic, many of us still have to deal with "regular" issues like selling our homes.
 
-I am sending you this message because at one time you contacted me about a Home Value Report or an Estimate of your home's value.The good news is that "Plenty of buyers also appear ready to take advantage of record-low mortgage rates and the stability that comes from these locked in monthly payments for future years."...says NAR Chief Economist Lawrence Yun.
+I am sending you this message because at one time you contacted me about a Home Value Report or an Estimate of your home's value.The good news is that "Plenty of buyers also appear ready to take advantage of record-low mortgage rates and the stability that comes from these locked in monthly payments for future years."…says NAR Chief Economist Lawrence Yun.
 
 That being said, here is a question: If I had a pre-qualified buyer who was willing to pay you a price acceptable to you for your home and was would also allow you to move in the time - frame you wanted. Would you consider selling your house?
 
