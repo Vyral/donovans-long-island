@@ -4,7 +4,10 @@ title: Lessons From Dad
 date: 2021-06-21 09:00:00
 tags:
   - Happy Holidays
-excerpt:
+excerpt: >-
+  In honor of Father’s Day yesterday, I want to give a shout-out to all of the
+  dads, stepdads, foster dads and granddads out there who’ve done their best to
+  inspire, raise and love the kids in their lives. 
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -19,7 +22,7 @@ youtube_code:
 
 **Good Morning\!**
 
-**In honor of Father’s Day yesterday, I want to give a shout-out to all of the dads, stepdads, foster dads and granddads out there who’ve done their best to inspire, raise and love the kids in their lives.Father’s Day reminds me of a Mark Twain quote that I love: “When I was 14, my father was so ignorant I could hardly stand to have the old man around. But when I got to be 21, I was astonished at how much the old man had learned in seven years.” It makes us laugh, but it also makes us think about all of the moments growing up when we may not have realized the influence our dads had in our lives, our futures and the way we would eventually build our relationships into adulthood. There are many lessons learned at their hands and from their hearts. If you’re fortunate enough to still have your dad in your life – celebrate him all week long. He will surely appreciate it\! I also found this fun, poignant article in Real Simple magazine: “Ten Things My Father Was Right About.” It’s worth the read and would be great to share with the dads in your life. I hope you enjoy it\!&nbsp;[CLICK HERE](https://www.realsimple.com/magazine-more/inside-magazine/life-lessons/things-my-father-was-right-about)&nbsp;**
+**In honor of Father’s Day yesterday, I want to give a shout-out to all of the dads, stepdads, foster dads and granddads out there who’ve done their best to inspire, raise and love the kids in their lives. Father’s Day reminds me of a Mark Twain quote that I love: “When I was 14, my father was so ignorant I could hardly stand to have the old man around. But when I got to be 21, I was astonished at how much the old man had learned in seven years.” It makes us laugh, but it also makes us think about all of the moments growing up when we may not have realized the influence our dads had in our lives, our futures and the way we would eventually build our relationships into adulthood. There are many lessons learned at their hands and from their hearts. If you’re fortunate enough to still have your dad in your life – celebrate him all week long. He will surely appreciate it\! I also found this fun, poignant article in Real Simple magazine: “Ten Things My Father Was Right About.” It’s worth the read and would be great to share with the dads in your life. I hope you enjoy it\!&nbsp;[CLICK HERE](https://www.realsimple.com/magazine-more/inside-magazine/life-lessons/things-my-father-was-right-about)&nbsp;**
 
 **Real Estate Corner: Speaking of Lessons You Learned from your dad: How about updating your tool kit so you can keep things in good order like dad used to do?&nbsp; Check out "How to Put Together a Basic Household Toolkit" &nbsp;[CLICK HERE](https://www.thespruce.com/basic-household-tool-kit-1976251#:~:text=%20Put%20Together%20a%20Basic%20Household%20Tool%20Kit,assortment%20of%20various%20sizes%20and%20shapes.%20More%20)**
 
