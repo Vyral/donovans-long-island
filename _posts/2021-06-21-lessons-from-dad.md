@@ -9,13 +9,13 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/85b33394e8d610f7ddf14275_792x446.jpg
 youtube_code:
 ---
 **Inspiration & Tips for Better Living**
 
-***The Best Life Lesson I learned from my Father - "When you were born, you cried and the world rejoiced. Live your life in such a way that when you die the world cries and you rejoice"... Robin Sharma&nbsp;[CLICK HERE&nbsp;](https://youtu.be/10FGJlxwkhc?t=205)***
+***The Best Life Lesson I learned from my Father - "When you were born, you cried and the world rejoiced. Live your life in such a way that when you die the world cries and you rejoice"… Robin Sharma&nbsp;[CLICK HERE&nbsp;](https://youtu.be/10FGJlxwkhc?t=205)***
 
 **Good Morning\!**
 
