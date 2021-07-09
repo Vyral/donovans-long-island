@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspiration & Tips for Better Living
+title: Happy Money
 date: 2021-07-09 00:00:00
 tags:
   - Real Estate
@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/donovan.jpeg
 youtube_code:
 ---
-**Happy Money*“Before you speak, listen. Before you write, think. Before you spend, earn. Before you invest, investigate. Before you criticize, wait. Before you pray, forgive. Before you quit, try. Before you retire, save. Before you die, give.” - William A. Ward &nbsp;*[CLICK HERE](https://youtu.be/k_5vGeBB52U)**
+Happy Money*“Before you speak, listen. Before you write, think. Before you spend, earn. Before you invest, investigate. Before you criticize, wait. Before you pray, forgive. Before you quit, try. Before you retire, save. Before you die, give.” - William A. Ward &nbsp;*[CLICK HERE](https://youtu.be/k_5vGeBB52U)
 
 **Good Morning\!&nbsp;**
 
