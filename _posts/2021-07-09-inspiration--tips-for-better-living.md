@@ -5,9 +5,7 @@ date: 2021-07-09 00:00:00
 tags:
   - Real Estate
   - Long Island Real Estate
-excerpt: >-
-  July is a great time to talk about money since it’s traditionally a vacation
-  month.
+excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
