@@ -5,7 +5,11 @@ date: 2021-07-09 00:00:00
 tags:
   - Real Estate
   - Long Island Real Estate
-excerpt:
+excerpt: >-
+  July is a great time to talk about money since it’s traditionally a vacation
+  month. When you talk about a vacation, do you go wherever you want without
+  worrying about money, or do you choose a trip that you don’t really want, out
+  of fear about spending money.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
