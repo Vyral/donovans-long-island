@@ -5,7 +5,9 @@ date: 2021-07-12 00:00:00
 tags:
   - Real Estate
   - Long Island Real Estate
-excerpt:
+excerpt: >-
+  We all have times when certain things frighten us, but some people seem to
+  live in a state of fear.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
