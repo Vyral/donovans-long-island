@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/network.jpeg
 youtube_code:
 ---
-Who Do You Have in YOUR Network?&nbsp;*Trust is the vglue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships.”*&nbsp; Stephen Covey&nbsp;[CLICK HERE](https://youtu.be/gPdgSZAUgjE)
+Who Do You Have in YOUR Network?&nbsp;*Trust is the value of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships.”*&nbsp; Stephen Covey&nbsp;[CLICK HERE](https://youtu.be/gPdgSZAUgjE)
 
 **Good Morning\!**
 
@@ -44,6 +44,6 @@ Who Do You Have in YOUR Network?&nbsp;*Trust is the vglue of life. It's the most
 
 **P.S. The winners for last week's Trivia Contest were: Helene Erickson, Peter Finney, Mary Ellen Pierce and Angelo Montoya. Not only do they get a Panera Gift Card but their names are entered in the Grand Prize drawing for the month of July and the winner of the Grand Prize drawing will have a donation made to the Charity of their choice\! &nbsp;Watch the Winners announced on last week's G.N.W. show&nbsp;[CLICK HERE](https://youtu.be/ze6YPAggz5Q?t=533)&nbsp;&nbsp; &nbsp;**​​​​​
 
-**BIG ANNOUNCEMENT -&nbsp;Grand Prize Drawing for June was held on the G.N.W. Show on Facebook Live or YouTube on WEDNESDAY AT 8:30 pm. The winner was: Elsa Cho&nbsp; and her favorite charity is Capital Sisters International - which provides MicroLoans for Women in Poverty. Check out this charity:&nbsp;[CLICK HERE](http://www.capitalsisters.org/)**
+**BIG ANNOUNCEMENT - Grand Prize Drawing for June was held on the G.N.W. Show on Facebook Live or YouTube on WEDNESDAY AT 8:30 pm. The winner was: Elsa Cho&nbsp; and her favorite charity is Capital Sisters International - which provides MicroLoans for Women in Poverty. Check out this charity:&nbsp;[CLICK HERE](http://www.capitalsisters.org/)**
 
 &nbsp;
