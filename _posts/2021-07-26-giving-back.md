@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/giving-back.jpeg
+youtube_alternate_image: /uploads/giveback.jpeg
 youtube_code:
 ---
 Giving Back&nbsp;*"As you grow older, you will discover that you have two hands - one for helping yourself, the other for helping others."&nbsp;*To Learn about Audrey Hepburn's work:&nbsp;[CLICK HERE](https://youtu.be/1SvddNIlRaw?t=189)
