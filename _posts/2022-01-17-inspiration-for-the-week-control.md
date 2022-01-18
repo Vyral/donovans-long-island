@@ -22,7 +22,7 @@ youtube_code:
 
 **Weekly Challenge: Make a list of three things that have been weighing on you that you actually have no control over and make a conscious effort to replace how you react to that thing with a&nbsp;[positive action instead of an angry, negative or fearful action](https://t.e2ma.net/click/owerrf/sbltq1c/cr245o){: target="_blank"}&nbsp;(Like when someone cuts you off in traffic – smile and say “have a good day” instead of what you were going to say\!)**
 
-**Real Estate Corner: Speaking of "Control" -- Painting can be very messy - especially with all those drips if you are a beginner. Learn how to control the drips\! "8 Tips for a No-Drip Paint Job"-&nbsp;[CLICK HERE](https://t.e2ma.net/click/owerrf/sbltq1c/sj345o){: target="_blank"}**
+**Real Estate Corner: Speaking of "Control" – Painting can be very messy - especially with all those drips if you are a beginner. Learn how to control the drips\! "8 Tips for a No-Drip Paint Job"-&nbsp;[CLICK HERE](https://t.e2ma.net/click/owerrf/sbltq1c/sj345o){: target="_blank"}**
 
 **"The task is not to control the wind, but to direct the movements of the ship so that it stays on course." -&nbsp;[Jessica & Michael Hinz](https://t.e2ma.net/click/owerrf/sbltq1c/8b445o){: target="_blank"}**
 
