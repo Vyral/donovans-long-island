@@ -6,7 +6,7 @@ tags:
 excerpt: "Each of us actually has a well of unlimited, and sometimes, untapped\_power\_at our disposal."
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/unnamed-20.jpg
