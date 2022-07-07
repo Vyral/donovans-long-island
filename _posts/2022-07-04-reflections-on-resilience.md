@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REFLECTIONS ON RESILIENCE
-date: 2022-07-07 13:57:47
+date: 2022-07-04 13:57:00
 tags:
 excerpt: Change affects people differently
 enclosure:
